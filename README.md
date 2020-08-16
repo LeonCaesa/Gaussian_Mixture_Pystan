@@ -7,4 +7,4 @@ Mainly to replicate the experiment in section 5 of [Jeffrey Miller 2019](https:/
 
 Tried to investigate the MCMC efficiency in 
 
-$\int Y$
+$`\int Y`$
