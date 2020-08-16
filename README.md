@@ -7,4 +7,4 @@ Mainly to replicate the experiment in section 5 of [Jeffrey Miller 2019](https:/
 
 Tried to investigate the MCMC efficiency in 
 
-$`\int Y^2`$
+<img src="https://latex.codecogs.com/svg.latex?P(X|\theta)=\sum_{z=1}^q&space;P(X|Z_i...)\pi(Z_i)" title="P(X|\theta)=\sum_{z=1}^q P(X|Z_i...)\pi(Z_i)" />
