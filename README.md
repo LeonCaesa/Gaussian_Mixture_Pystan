@@ -9,6 +9,9 @@ Tried to investigate the MCMC efficiency between
 
 1. Exact Robust Sampling
 
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?P^{\xi}(X|\theta)=[\sum_{z=1}^q&space;P(X|Z_i...)\pi(Z_i)]^{\xi}" title="P^{\xi}(X|\theta)=[\sum_{z=1}^q P(X|Z_i...)\pi(Z_i)]^{\xi})
+
+
 <img src="https://latex.codecogs.com/svg.latex?P^{\xi}(X|\theta)=[\sum_{z=1}^q&space;P(X|Z_i...)\pi(Z_i)]^{\xi}" title="P^{\xi}(X|\theta)=[\sum_{z=1}^q P(X|Z_i...)\pi(Z_i)]^{\xi}" />
 
 2. Approximate Robust Sampling
