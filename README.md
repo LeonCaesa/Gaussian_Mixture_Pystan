@@ -16,5 +16,5 @@ Tried to investigate the MCMC efficiency between
 <img src="https://latex.codecogs.com/svg.latex?P^{\xi}(X|\theta)&space;\approx&space;\sum_{z=1}^q&space;P^{\xi}(X|Z_i...)\pi(Z_i)" title="P^{\xi}(X|\theta) \approx \sum_{z=1}^q P^{\xi}(X|Z_i...)\pi(Z_i)" />
 
 
-The conclusion is that the approximate sampling tends to favor more parsimony model compared to the exact sampling one. Jupyter Notebook can be found in [Exact Sampling](Calibration_Exact4000_Chg_Init.html) and [Approximate Sampling]()
+The conclusion is that the approximate sampling tends to favor more parsimony model compared to the exact sampling one. Jupyter Notebook can be found in [Exact Sampling](Calibration_Exact4000_Chg_Init.html) and [Approximate Sampling](https://github.com/LeonCaesa/Gaussian_Mixture_Pystan/blob/master/Calibration_Approxt4000_Chg_Init.html)
 
